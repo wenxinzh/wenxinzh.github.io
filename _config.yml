@@ -5,11 +5,11 @@
 # Site
 title: Mason's blog.
 subtitle:
-description:
-keywords:
+description: 记录一些我生活和工作感兴趣的事。
+keywords: Java,网络,程序员,开发,科学上网
 author: Mason Zhang
-language: zh_cn
-timezone:
+language: zh-CN
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -84,7 +84,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
